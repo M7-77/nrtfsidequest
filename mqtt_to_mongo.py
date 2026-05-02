@@ -14,8 +14,6 @@ from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
 
 # ═══════════════════════════════════════════════════════════════════════════
-#  ★ CHANGE THESE — your personal settings
-# ═══════════════════════════════════════════════════════════════════════════
 MONGO_URI = "mongodb+srv://mokarimdah05_db_user:A4A9mL1Edcpe5Sg1@cluster0.1rawvgd.mongodb.net/"
 #            ↑ paste your full MongoDB Atlas connection string here
 # ═══════════════════════════════════════════════════════════════════════════
