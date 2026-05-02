@@ -19,11 +19,9 @@
 
 
 // ═══════════════════════════════════════════════════════════════════════════
-//  ★ CHANGE THESE — your personal settings
-// ═══════════════════════════════════════════════════════════════════════════
-const char* WIFI_SSID       = "Redmi Note 10S";       // ← your hotspot name
-const char* WIFI_PASSWORD   = "karim123";   // ← your hotspot password
-const char* OTA_PASSWORD    = "10.169.185.56";           // ← OTA update password (keep or change)
+const char* WIFI_SSID       = "NAME";       // ← your hotspot name
+const char* WIFI_PASSWORD   = "PASSWORD";   // ← your hotspot password
+const char* OTA_PASSWORD    = "IPV4";           // ← OTA update password (keep or change)
 // ═══════════════════════════════════════════════════════════════════════════
 //  These stay as-is — HiveMQ free public TLS broker, no account needed
 // ═══════════════════════════════════════════════════════════════════════════
